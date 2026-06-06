@@ -1,0 +1,36 @@
+# ==========================================
+# Archivos de Compilación y Binarios (C++)
+# ==========================================
+# Objetos y librerías estáticas/dinámicas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Archivos ejecutables generados
+*.exe
+*.out
+*.app
+
+# Carpetas comunes de salida de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# ==========================================
+# IDEs y Editores de Código
+# ==========================================
+
+# Visual Studio (MSVC)
+.vs/
+*.user
+*.suo
+*.peruser
+*.db
+*.opend
